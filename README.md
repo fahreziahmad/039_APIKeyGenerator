@@ -76,7 +76,7 @@ npm run dev
   ```json
   {
     "email": "admin@example.com",
-    "password": "password123"
+    "password": "admin123"
   }
   ```
 - `POST /api/auth/validate` - Validate API key (untuk Postman)
